@@ -1,14 +1,9 @@
 <h1>Clone of Domino's website</h1>
 <h2>My third Project:</h2>
-Hello, My name is Priya Kesarwani. I am the student of Masai School. Currently I am in unit 6. This blog is all about my third project. We have worked in a team of 5 members.
-
-We have been assigned to clone Domino- Website.
+Hello, My name is Rohit Kumar,
 
 Technologies used:
 In making this project, we used Html, Css, advanced JavaScript, React, Redux, Context API, Chakra UI and local storage.
-
-Task Assignment:
-We have assigned our tasks equally in the team. For example, landing page and login page was created by Sanjay Loncha. Menu page and Product page was created by me. Navbar, footer section and Cart page was created by Ayush Singh. Product Details page was created by Samrat Kumar and address page & payment page was created by Pradip Shukla.
 
 Home Page:
 In landing page there is one beautiful navbar and sidebar. sliding images are moving continuously. There is one footer section also.
